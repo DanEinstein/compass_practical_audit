@@ -76,6 +76,10 @@ When evaluated, real disparities in false positive and negative rates were obser
 - Require human review for high-risk, high-impact predictions.
 
 ---
+# Location of the theoritical assignment
+- The theoritical assignment can be found in the following folder
+[Theoretical Section - Google Drive](https://drive.google.com/drive/folders/1xqpEXRpsw5VDkRrIohvVY9Y8gWIPXKKI?usp=drive_link)
+
 
 ## References
 
